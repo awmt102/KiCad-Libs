@@ -1,9 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP CMX60D20
-D Form A, Solid State Relay (Photo MOSFET) 60V, 0.2A, 10Ohm, SO-4
-K MOSFET Output Photorelay 1-Form-A
-F https://docs.broadcom.com/docs/AV02-0173EN
+D Crydom Solid State Relay
+F https://docs-emea.rs-online.com/webdocs/0fc2/0900766b80fc2059.pdf
 $ENDCMP
 #
 $CMP DC_DC_DUAL
@@ -17,6 +16,36 @@ $ENDCMP
 $CMP GND_CUSTOM
 D (reference supply) ground power-flag symbol
 K Power Flag Symbol
+$ENDCMP
+#
+$CMP LEMO2_PAIR
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP LEMO3_PAIR
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo2_Pair
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo3_Pair
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo4_Pair
+D 4-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo5_Pair
+D 5-pin LEMO connector pair
+K LEMO connector pair
 $ENDCMP
 #
 $CMP PANCON_PAIR10

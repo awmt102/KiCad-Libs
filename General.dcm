@@ -18,6 +18,36 @@ D (reference supply) ground power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP LEMO2_PAIR
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP LEMO3_PAIR
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo2_Pair
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo3_Pair
+D 2-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo4_Pair
+D 4-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
+$CMP Lemo5_Pair
+D 5-pin LEMO connector pair
+K LEMO connector pair
+$ENDCMP
+#
 $CMP PANCON_PAIR10
 D Pancon 10 way connector pair
 $ENDCMP
